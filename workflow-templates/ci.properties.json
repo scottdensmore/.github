@@ -1,0 +1,8 @@
+{
+  "name": "CI Workflow (3-Day Retention)",
+  "description": "Standard CI workflow configured with a 3-day artifact retention to avoid GitHub Actions storage quotas.",
+  "iconName": "package",
+  "categories": [
+    "Continuous Integration"
+  ]
+}
